@@ -2,7 +2,7 @@
   
   ![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
   
- Bienvenido son M J - Welcome I'm M J
+ Bienvenido soy M J - Welcome I'm M J
 
   ![Drake](https://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&height=30&lines=𝒥𝔲𝔫𝔦𝔬𝔯+𝒫𝔯𝔬𝔤𝔯𝔞𝔪𝔪𝔢𝔯)
   
