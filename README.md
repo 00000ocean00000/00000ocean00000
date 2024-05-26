@@ -4,7 +4,7 @@
   
  Bienvenido soy M J - Welcome I'm M J
 
-  ![Drake](https://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&height=30&lines=𝒥𝔲𝔫𝔦𝔬𝔯+𝒫𝔯𝔬𝔤𝔯𝔞𝔪𝔪𝔢𝔯)
+  ![Drake](https://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&height=30&lines=𝒥𝔲𝔫𝔦𝔬𝔯+𝒫𝔯𝔬𝔤𝔯𝔞𝔪𝔪𝔢𝔯 xddd)
   
 
 ¡Hola! Soy un ingeniero de sistemas e informática de 19 años que estudia en Perú.
