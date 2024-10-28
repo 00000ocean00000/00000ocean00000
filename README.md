@@ -7,9 +7,9 @@
   ![Drake](https://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&height=30&lines=𝒥𝔲𝔫𝔦𝔬𝔯+𝒫𝔯𝔬𝔤𝔯𝔞𝔪𝔪𝔢𝔯)
   
 
-¡Hola! Soy un ingeniero de sistemas e informática de 19 años que estudia en Perú.
+¡Hola! Soy estudiante de la carrera de ing. de sistemas e informática.
 
-Hello! I am a 19-year-old computer and systems engineer studying in Peru.
+Hello! I am a student studying engineering. of systems and computing.
 
 
 <p align="center">
