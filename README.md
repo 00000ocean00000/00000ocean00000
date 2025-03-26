@@ -27,5 +27,4 @@ Hello! I am a student studying engineering. of systems and computing.
 <h2 align='center'>ᵀʰᵃⁿᵏ ʸᵒᵘ ᶠᵒʳ ʸᵒᵘʳ ᵛⁱˢⁱᵗ ⭐ ᴳʳᵃᶜⁱᵃˢ ᵖᵒʳ ᵗᵘ ᵛⁱˢⁱᵗᵃ</h2>
 <br>
 <p align='center'>
-<img src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
-<br>
+<iframe src="https://gifer.com/embed/4SHX" width=480 height=688.773 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">a través de GIFER</a></p><br>
